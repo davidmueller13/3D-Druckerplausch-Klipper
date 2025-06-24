@@ -1,4 +1,17 @@
+# This repository is outdated and archived!
+
+> Due to our dear friend @Prutsium going over the rainbow bridge, this project is abandoned.
+> 
+> The Co-Developer @OXERY also doesn't own Prusa printers any more, therefore this repository won't be updated.
+> 
+> In the last years, we switched over to RatRig and Voron, which is why this repository wasn't updated for recent Klipper versions.
+> 
+> If you are looking for a decent alternative, take a look at https://os.ratrig.com, as it provides also good config files and many more features for RatRig-, Prusa- and Voron-Printers.
+
+---
+
 <img src="https://user-images.githubusercontent.com/42968695/116128687-7e262b00-a6c9-11eb-9e43-75c72f7666b7.jpg"  width="250" height="250">
+
 Find us on Telegram: https://t.me/Druckerplausch
 
 Repo for config file(s) for Prusa MK3(S)(+) and others with Klipper
